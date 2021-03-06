@@ -1,0 +1,13 @@
+C:\Users\erenk\Desktop\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.exe
+C:\Users\erenk\Desktop\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.deps.json
+C:\Users\erenk\Desktop\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.json
+C:\Users\erenk\Desktop\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.runtimeconfig.dev.json
+C:\Users\erenk\Desktop\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.dll
+C:\Users\erenk\Desktop\OOP\OOP\bin\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\erenk\Desktop\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csprojAssemblyReference.cache
+C:\Users\erenk\Desktop\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfoInputs.cache
+C:\Users\erenk\Desktop\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.AssemblyInfo.cs
+C:\Users\erenk\Desktop\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.csproj.CoreCompileInputs.cache
+C:\Users\erenk\Desktop\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.dll
+C:\Users\erenk\Desktop\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.pdb
+C:\Users\erenk\Desktop\OOP\OOP\obj\Debug\netcoreapp3.1\OOP.genruntimeconfig.cache
